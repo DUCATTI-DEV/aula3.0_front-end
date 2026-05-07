@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded',()=>{
             navMenu.classList.toggle("active");
             menuIcone.classList.toggle("open");
         }
-    }
+    } 
 })
 
 
